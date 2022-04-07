@@ -17,7 +17,7 @@
     "id": 3,
     "name": "John",
     "content": "Global Version Router is a very good product.",
-    "review": 5,
+    "review": 3,
     "img": "https://i.pinimg.com/474x/51/06/7d/51067d16c5d96fa9984015d054a0e1d5.jpg"
   },
   {
@@ -25,6 +25,6 @@
     "name": "John",
     "content": "চার দিনের মধ্যে প্রোডাক্টটি পেয়েছি, অরজিনাল প্রোডাক্টটি পেয়েছি। ধন্যবাদ স্টারটেক।",
     "img": "https://cdn.pixabay.com/photo/2017/04/28/21/34/stylish-boy-2269500_1280.jpg",
-    "review": 5
+    "review": 4
   }
 ]
